@@ -1,0 +1,17 @@
+TO DO:
+	main:
+		main loop: restart
+            not sure how/worth it
+	general:
+        less brittle
+            if folder exists already, assume author already downloaded and keep going
+		more pythonic
+			list comprehensions etc
+		make faster
+            not sure how...
+		documentation (https://docs.python-guide.org/writing/documentation)
+			comply w pylint/pep8 etc
+		upload to github (https://pages.github.com/)
+			make a website
+	zipf:
+		plotting zipf distributions of various authors could be cool
